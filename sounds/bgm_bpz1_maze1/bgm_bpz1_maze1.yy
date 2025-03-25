@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"bgm_bpz1_maze1",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":2,
+  "conversionMode":0,
+  "duration":220.99591,
+  "name":"bgm_bpz1_maze1",
+  "parent":{
+    "name":"BGM",
+    "path":"folders/Audio/BGM.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"bgm_bpz1_maze1.mp3",
+  "type":1,
+  "volume":0.75,
+}

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"bgm_blz2_LCZ1JX16bit",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":2,
+  "conversionMode":0,
+  "duration":169.224,
+  "name":"bgm_blz2_LCZ1JX16bit",
+  "parent":{
+    "name":"BGM",
+    "path":"folders/Audio/BGM.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"bgm_blz2_LCZ1JX16bit.mp3",
+  "type":1,
+  "volume":1.0,
+}

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"bgm_esz2_degeneracysaturn",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":2,
+  "conversionMode":0,
+  "duration":166.03429,
+  "name":"bgm_esz2_degeneracysaturn",
+  "parent":{
+    "name":"BGM",
+    "path":"folders/Audio/BGM.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"bgm_esz2_degeneracysaturn.mp3",
+  "type":1,
+  "volume":1.0,
+}
